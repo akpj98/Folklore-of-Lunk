@@ -9,6 +9,7 @@ This repository mainly contains the code used for the enemy AI as it was the mai
 ENEMY TYPES
 
 1. Log
+
 The log script derives from the base enemy script that all the enemies derive from and is the foundation for the other enemy types. It has an idle, walk, attack, and stagger state that each go off when interacted by the player, the object most enemies have as their targetted position. Each enemy also has their base stats (movement speed, attack radius, chase radius) contained in a serialize field.
   a. Patrol Logs
      The patrol logs function similar to the base log enemy type, however they are given waypoints to traverse that they can leave and return towards depending on how 
