@@ -1,9 +1,9 @@
 Folklore of Lunk is a top down twinstick shooter type game that was inspired by the Legend of Zelda series. It emphasizes ranged combat with a variety of items to choose from in order to aid your player in combat or traversing through the level.
 
 A lot of our code's foundation was built upon using YouTube content creator Mister Taft Creates' video series titled Make a Game Like Legend of Zelda using Unity and C#
-Playlist can be found here:https://www.youtube.com/playlist?list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu
+Playlist can be found here: https://www.youtube.com/playlist?list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu
 
-The demo for our game can be found here:https://drive.google.com/file/d/1jSh90aHIfV6nunm55nl1ZCdbny2Utd9w/view
+The demo for our game can be found here: https://drive.google.com/file/d/1jSh90aHIfV6nunm55nl1ZCdbny2Utd9w/view
 
 This repository mainly contains the code used for the enemy AI as it was the main role I was tasked with.
 
